@@ -10,5 +10,10 @@
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
   </attributes>
 </scheme>
