@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="Debug" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
