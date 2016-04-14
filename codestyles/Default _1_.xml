@@ -3,4 +3,7 @@
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
     <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
   </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
 </code_scheme>
